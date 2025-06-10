@@ -46,7 +46,7 @@ I'm a full-stack developer who enjoys solving real-world problems through scalab
 
 ## 📫 Connect with Me  
 - [LinkedIn](www.linkedin.com/in/pintu-kumar1012)  
-- [Twitter]([https://twitter.com/pintu1012kumar](https://x.com/Pintu1012kumar))  
-- [Portfolio]([https://pintukumar.com](https://pintukumar-four.vercel.app/))
+- [Twitter](https://x.com/Pintu1012kumar))  
+- [Portfolio](https://pintukumar-four.vercel.app/)
 
 Thanks for visiting!
