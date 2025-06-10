@@ -45,8 +45,8 @@ I'm a full-stack developer who enjoys solving real-world problems through scalab
 ![Pintu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pintu1012kumar&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/pintu-kumar1012)  
-- [Twitter](https://x.com/Pintu1012kumar))  
+- [LinkedIn](https://www.linkedin.com/in/pintu-kumar1012/)  
+- [Twitter](https://x.com/Pintu1012kumar) 
 - [Portfolio](https://pintukumar-four.vercel.app/)
 
 Thanks for visiting!
